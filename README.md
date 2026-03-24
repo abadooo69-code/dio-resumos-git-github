@@ -1,2 +1,2 @@
-# dio-resumoSS2 -git-github
-# TESTE NOVAMENTE ..
+# repositorio local
+# descrição inserida no repositorio local depois do clone
